@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://bytecraft-self.vercel.app/",
     title: "ByteCraft",
     description: "一个工程师持续构建技术作品的地方",
     author: "陈加新",
-    profile: "https://satna.ing",
+    profile: "https://github.com/duoyuanyuzhou",
     ogImage: "default-og.jpg",
     lang: "zh-CN",
     timezone: "Asia/Shanghai",
