@@ -35,6 +35,7 @@ export default {
     featured: "精选文章",
     recentPosts: "最新文章",
     allPosts: "全部文章",
+    rssFeed: "RSS 订阅",
   },
 
   footer: {
