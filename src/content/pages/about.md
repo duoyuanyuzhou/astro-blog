@@ -1,37 +1,73 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于"
+description: "关于我和这个博客的一些介绍。"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# 关于我
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+你好，欢迎来到 **ByteCraft**。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+我是一个热爱计算机技术的软件开发者，也是一名持续学习者。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+我喜欢探索计算机科学背后的原理，从编程语言、数据库、操作系统，到网络、分布式系统和云原生技术，希望不仅停留在工具的使用层面，而是理解技术背后的设计思想。
 
-## Features
+---
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+# 关于这个博客
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+**ByteCraft** 代表：
 
-and so much more.
+- **Byte**：计算机世界中的基础单位，象征数据、代码和数字世界。
+- **Craft**：代表创造、实践和不断打磨的过程。
 
-## Show your support
+这个博客记录我的学习过程、技术实践和个人思考。
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+我希望通过持续记录：
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+- 加深对知识的理解
+- 建立系统化的知识体系
+- 分享学习过程中的经验与总结
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+每一篇文章都是一次积累，每一次实践都是一次成长。
 
-Kyay zuu! 🙏🏼
+---
+
+# 博客内容
+
+这里主要记录：
+
+- Java 后端开发
+- Spring Boot 相关技术
+- MySQL、Redis 等数据库知识
+- Linux 与服务器实践
+- Docker 与云原生技术
+- 计算机基础知识
+- 算法与系统设计
+- 学习方法与个人成长
+
+---
+
+# 我的学习理念
+
+我相信：
+
+> 理解原理，动手实践，持续总结。
+
+技术的发展很快，但底层的计算机思想、工程方法和解决问题的能力具有长期价值。
+
+通过阅读、实践、记录和复盘，不断完善自己的技术体系。
+
+---
+
+# 联系我
+
+如果你想交流技术、分享想法，欢迎联系：
+
+- GitHub: [duoyuanyuzhou](https://github.com/duoyuanyuzhou)
+- X (Twitter): [@jiaxinchendev](https://x.com/jiaxinchendev)
+- LinkedIn: [陈加新](https://www.linkedin.com/in/%E5%8A%A0%E6%96%B0-%E9%99%88-65a65828a/)
+- Email: [jiaxin.chen.dev@gmail.com](mailto:jiaxin.chen.dev@gmail.com)
+
+---
+
+感谢你的访问，希望这里的内容能够对你有所帮助。
